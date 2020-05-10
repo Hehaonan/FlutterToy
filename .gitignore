@@ -110,6 +110,5 @@ ios/Runner/Assets.xcassets/
 ios/Runner/Base.lproj/
 ios/Runner/Info.plist
 ios/Runner/main.m
-lib/
 pubspec.lock
 pubspec.yaml
