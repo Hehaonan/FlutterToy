@@ -7,7 +7,7 @@ class Home extends StatelessWidget {
     return WillPopScope(
       child: Scaffold(
         appBar: AppBar(
-          title: const Text('Page lists'),
+          title: const Text('Page List'),
         ),
         body: ListView.builder(
           itemCount: MyRoutes.routes.length,
